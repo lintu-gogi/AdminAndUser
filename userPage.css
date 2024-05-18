@@ -1,0 +1,9 @@
+h1,h2{
+    text-align: center;
+    background-color:gray;
+}
+#para_Id{
+    font-size: 3em;
+    background-color: azure;
+    text-align: justify;
+}
